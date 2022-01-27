@@ -340,16 +340,16 @@ body {
     margin: 24px 11px 0px 0px;
 }
 .footer-social__link_fb {
-    background: url('/img/facebook.svg')
+    background: url('../img/facebook.svg')
 }
 .footer-social__link_tw {
-    background: url('/img/twitter.svg')
+    background: url('../img/twitter.svg')
 }
 .footer-social__link_g {
-    background: url('/img/google.svg')
+    background: url('../img/google.svg')
 }
 .footer-social__link_in {
-    background: url('/img/linkedin.svg')
+    background: url('../img/linkedin.svg')
 }
 
 /* -----Footer-bottom----- */
