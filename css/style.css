@@ -96,7 +96,7 @@ body {
 
 /* -----Hero----- */
 .hero {
-    background: url('/img/hero-bg.jpg') center no-repeat;
+    background: url('../img/hero-bg.jpg') no-repeat center;
     background-size: cover;
     padding: 189px 0px 211px 0px;
     
